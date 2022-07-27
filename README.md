@@ -1,6 +1,10 @@
 # minha_pokedex
 
-A new Flutter project.
+ ## | Projeto teste
+ - Obs.: Na página de especificações de pokemons, você pode clicar na imagem do pokemon e será redirecionado para um novo pokémon dentro do banco de dados de pokemons.
+ - Eu poderia ter criado uma página de login, com cadastro de treinadores de pokémons e algo mais complexo específico para cada treinador mas o objetivo desse projeto não é complicar e sim usar a api de pokemon e simplificar.
+ 
+ by: Christian Oliveira, email: pokeracposterhuman@gmail.com
 
 ## Getting Started
 
