@@ -12,4 +12,6 @@ class Pokemon {
     required this.pokedexNumber,
     required this.types,
   });
+
+  // add incrementos futuramente...
 }
